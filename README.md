@@ -27,8 +27,8 @@ This is the my first QR Code Challenge on Frontend Mentor, Desktop and Mobile Ve
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/thegrindnet/QR_Code_Frontend_Mentor.git)
+- Live Site URL: [GitHub](https://github.com/thegrindnet/QR_Code_Frontend_Mentor.git)
 
 ## My process
 
