@@ -1,0 +1,62 @@
+/******* Colors *******/
+
+/* - White: hsl(0, 0%, 100%)
+
+- Slate 300: hsl(212, 45%, 89%)
+- Slate 500: hsl(216, 15%, 48%)
+- Slate 900: hsl(218, 44%, 22%)  */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  font-family: "Outfit", sans-serif;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 320px;
+  height: 499px;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 16px;
+  border-radius: 20px;
+  background-color: hsl(0, 0%, 100%);
+  margin-bottom: 50px;
+}
+
+.qr-code {
+  width: 288px;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
+.content-container {
+  padding: 0 16px;
+}
+
+h3 {
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  font-size: 1.4rem;
+  line-height: 1.161;
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+p {
+  font-size: 15px;
+  line-height: 1.4;
+  color: hsl(216, 15%, 48%);
+  text-align: center;
+}
