@@ -27,19 +27,19 @@ This is the my first QR Code Challenge on Frontend Mentor, Desktop and Mobile Ve
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/thegrindnet/QR_Code_Frontend_Mentor.git)
-- Live Site URL: [GitHub](https://github.com/thegrindnet/QR_Code_Frontend_Mentor.git)
+- Solution URL: [GitHub](https://github.com/thegrindnet/QR_Code_Frontend_Mentor.git)
+- Live Site URL: [Netlify](https://qrcode-challenge-david-bonilla.netlify.app)
 
 ## My process
 
-This project was not that difficult. I tried to keep my code as simple and clean as possible. I created a div container for the actual card and a html footer section for the link to the frontend Mentor challenge/attribution.
+This project was not difficult, but rather fun to make. I tried to keep my code as simple and clean as possible. I used div container for the actual card, and some flex box to position the elements in a column. To attribute the design and challenge to Frontend Mentor I put this section in a html semantic footer. Once I was done, pushed the folder to online GitHub respository, see the Solution URL [GitHub] and posted a live version of the Netlify.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Fixma
+- Figma
 
 ### What I learned
 
